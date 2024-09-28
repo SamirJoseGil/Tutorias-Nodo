@@ -1,10 +1,10 @@
-package nodo.java;
+package nodo.bookCrud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaApplicationTests {
+class BookCrudApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package nodo.java;
+package nodo.bookCrud;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JavaApplication {
+public class BookCrudApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaApplication.class, args);
+		SpringApplication.run(BookCrudApplication.class, args);
 	}
 
 }
