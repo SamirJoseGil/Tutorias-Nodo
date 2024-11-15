@@ -26,14 +26,6 @@ dependencies {
 
     // PostgreSQL Driver
     implementation 'org.postgresql:postgresql'
-
-    // Spring Security
-    implementation 'org.springframework.boot:spring-boot-starter-security'
-
-    // JWT (JSON Web Token)
-    implementation 'io.jsonwebtoken:jjwt-api:0.12.6'
-    implementation 'io.jsonwebtoken:jjwt-impl:0.12.5'
-    implementation 'io.jsonwebtoken:jjwt-jackson:0.12.5'
     
 	// Test dependencies
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
